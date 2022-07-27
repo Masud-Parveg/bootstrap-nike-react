@@ -18,6 +18,9 @@
 .item-background{
     background: #F1F1F1;
 }
+.footer-background{
+    background: #fa804c;
+}
 
 .card:hover{
     background:#3F87F5;
