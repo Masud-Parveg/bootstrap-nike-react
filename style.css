@@ -1,0 +1,25 @@
+.header-color{
+    color: #FA804C;
+}
+.haader-font{
+    font-family:'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+}
+.haader-font-2{
+    font-family:'Bebas Neue';
+    font-style: normal;
+
+}
+.btn-background {
+    background:linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+.card:hover{
+    background:#3F87F5;
+    color: white;
+    transform: translateY(-5%);
+    box-shadow:0px 0xp 32px -17px var(#3F87F5);
+
+}
